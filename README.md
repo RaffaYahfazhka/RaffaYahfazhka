@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raffa</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raffayahfazhka" alt="raffayahfazhka" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffaYahfazhka&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 - 🌱 I’m currently learning **Next JS**
 
