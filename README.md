@@ -83,6 +83,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/RaffaYahfazhka/RaffaYahfazhka/output/snake.svg" alt="Snake animation" />
 
 ###
