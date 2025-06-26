@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raffa and I'm a Frontend Developer, from Jakarta, Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Raffa and I'm a Frontend Web Developer, from Jakarta, Indonesia</h2>
 
 ###
 
