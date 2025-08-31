@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raffa and I'm a Frontend Web Developer, from Jakarta, Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Raffa and I'm a Frontend Developer</h2>
 
 ###
 
@@ -37,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://pontemnetwork.gallerycdn.vsassets.io/extensions/pontemnetwork/move-language/0.5.0/1624039308768/Microsoft.VisualStudio.Services.Icons.Default" height="30" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
   <img width="12" />
